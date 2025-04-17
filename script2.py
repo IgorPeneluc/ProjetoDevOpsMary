@@ -1,3 +1,4 @@
 script2.py
 print("Este é o script 2 do projeto")
 print("Esta é a alteração da Mary")
+asdasdasda sa
